@@ -1,0 +1,1 @@
+web: gunicorn mgrego.wsgi --log-file -
